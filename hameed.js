@@ -77,3 +77,4 @@ class Job extends Hameed{
 
 let hameedCV= new Job
 console.log(hameedCV.sendCV())
+
